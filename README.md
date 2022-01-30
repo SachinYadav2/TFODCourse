@@ -1,7 +1,7 @@
 # Tensorflow Object Detection Walkthrough
 <p>This set of Notebooks provides a complete set of code to be able to train and leverage your own custom object detection model usin.and
   https://user-images.githubusercontent.com/98679524/151701686-10d575c7-5271-4a5a-8610-315c06457ae4.png
-<a href="https://github.com/nicknochnack/TFODCourse/blob/main/1.%20Image%20Collection.ipynb">
+
 
 
 
